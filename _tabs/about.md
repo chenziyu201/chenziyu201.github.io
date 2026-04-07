@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-
 你好👋 我是 **臣子与**。
 
 ### 宗旨
