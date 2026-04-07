@@ -4,13 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 关于我
+
 
 你好👋 我是 **臣子与**。
 
 ### 宗旨
 
-> 发掘真实的华夏历史，探索宇宙深处的奥秘
+> 发掘真实的华夏历史，探索宇宙深处的奥秘......
 
 ### 兴趣
 
@@ -22,7 +22,7 @@ order: 4
 
 - **GitHub**: [@chenziyu201](https://github.com/chenziyu201)
 - **Twitter**: [@Chenziyu233](https://twitter.com/Chenziyu233)
-- **Email**: ziyu_233@outlook.com
+- **Email**: [ziyu_233@outlook.com](mailto:ziyu_233@outlook.com)
 
 ---
 
