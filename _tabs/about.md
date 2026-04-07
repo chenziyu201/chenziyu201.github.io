@@ -21,7 +21,7 @@ order: 4
 ### 联系我
 
 - **GitHub**: [@chenziyu201](https://github.com/chenziyu201)
-- **Twitter**: [@Chenziyu233](https://twitter.com/Chenziyu233)
+- **Twitter**: [@chenziyu201](https://twitter.com/chenziyu201)
 - **Email**: [ziyu_233@outlook.com](mailto:ziyu_233@outlook.com)
 
 ---
